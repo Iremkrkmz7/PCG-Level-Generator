@@ -25,14 +25,6 @@ A Unity game that combines **Procedural Content Generation (PCG)** and **Finite 
 | 4 | Tiny | 6 | 4 | Red |
 
 
-
-<img width="242" height="181" alt="Ekran görüntüsü 2026-04-21 002112" src="https://github.com/user-attachments/assets/21618fac-0b10-42e3-afd5-fc5940a3d33a" />
-<img width="288" height="218" alt="Ekran görüntüsü 2026-04-21 002032" src="https://github.com/user-attachments/assets/5ee54560-82af-46c7-bc44-cd047c566df2" />
-<img width="403" height="270" alt="Ekran görüntüsü 2026-04-21 002016" src="https://github.com/user-attachments/assets/67d1e1df-5eea-4e42-8ae8-04e4c6aa9c90" />
-<img width="502" height="347" alt="Ekran görüntüsü 2026-04-21 001949" src="https://github.com/user-attachments/assets/cba64b1d-243e-4bbb-bacc-b6733404f56e" />
-<img width="515" height="328" alt="Ekran görüntüsü 2026-04-21 002453" src="https://github.com/user-attachments/assets/70038696-b4c5-440a-ac4c-672c12ce578d" />
-
-
 **2. PCG (Procedural Content Generation)**
 - Enemies and coins are placed randomly on the plane every level
 - Plane size shrinks algorithmically as levels progress
@@ -144,3 +136,10 @@ PCG-Level-Generator
 |---|-------|----------|
 | 1 | NPC AI | FSM tabanlı düşman |
 | 2 | **PCG Level Generator** ← bu repo | Prosedürel level + NPC birleşimi |
+
+
+<img width="242" height="181" alt="Ekran görüntüsü 2026-04-21 002112" src="https://github.com/user-attachments/assets/21618fac-0b10-42e3-afd5-fc5940a3d33a" />
+<img width="288" height="218" alt="Ekran görüntüsü 2026-04-21 002032" src="https://github.com/user-attachments/assets/5ee54560-82af-46c7-bc44-cd047c566df2" />
+<img width="403" height="270" alt="Ekran görüntüsü 2026-04-21 002016" src="https://github.com/user-attachments/assets/67d1e1df-5eea-4e42-8ae8-04e4c6aa9c90" />
+<img width="502" height="347" alt="Ekran görüntüsü 2026-04-21 001949" src="https://github.com/user-attachments/assets/cba64b1d-243e-4bbb-bacc-b6733404f56e" />
+<img width="515" height="328" alt="Ekran görüntüsü 2026-04-21 002453" src="https://github.com/user-attachments/assets/70038696-b4c5-440a-ac4c-672c12ce578d" />
